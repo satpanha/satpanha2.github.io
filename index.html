@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sylte.css">
+    <title>Portfolio</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Panha</a>
+
+        <nav>
+            <a href="#" class=" active">Home </a>
+            <a href="#" >Services </a>
+            <a href="#" >Skill </a>
+            <a href="#" >Education </a>
+            <a href="#" >Experience </a>
+            <a href="#" >Contact </a>
+        </nav>
+        <section class="home">
+            <div class="home-img">
+                <img src="IMG_6577.JPG" alt="">
+            </div>
+            <div class="home-content">
+                <h1>Hi, It's <span>Panha</span></h1>
+                <h3 class="typing-text">I'm a <span></span></h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur voluptate, commodi eos maiores corporis laboriosam adipisci odit sit quas, tenetur dolores vitae ducimus quidem, iste ullam unde soluta. Aperiam, fugiat!</p>
+                <div class="social-icons">
+                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="#"><i class="fa-brands fa-github"></i></a>
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                </div>
+            </div>
+        </section>
+    </header>
+</body>
+</html>
